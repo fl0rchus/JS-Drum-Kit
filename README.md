@@ -1,10 +1,13 @@
 # JavaScript Drum Kit 🥁
 
-A very simple drum made with vanilla JavaScript!
+JavaScript 30
 
 ## Description
 
-First challenge of JavaScript 30, is a basic drum kit made with evenlisteners that listens to the key that you press and play a specific sound
+Basic drum kit made with evenlisteners that listens to the key that you press and play a specific sound
+
+## Day
+ Day 1 of 30
 
 ## Source
 
